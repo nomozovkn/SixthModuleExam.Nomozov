@@ -1,0 +1,7 @@
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.csproj.AssemblyReference.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.AssemblyInfoInputs.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.AssemblyInfo.cs
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.csproj.CoreCompileInputs.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContactsManager.Server\obj\Debug\net9.0\UserContactsManager.Server.sourcelink.json

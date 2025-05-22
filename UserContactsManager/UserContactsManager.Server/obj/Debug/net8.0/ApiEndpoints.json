@@ -1,0 +1,348 @@
+[
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_3",
+    "RelativePath": "api/auth/log-out",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Authentication"
+    ],
+    "EndpointName": "LogOut"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_1",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "UserContactsManager.Bll.Dtos.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Authentication"
+    ],
+    "EndpointName": "Login"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_2",
+    "RelativePath": "api/auth/refresh-token",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refresh",
+        "Type": "UserContactsManager.Bll.Dtos.RefreshRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Authentication"
+    ],
+    "EndpointName": "RefreshToken1"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.AuthEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuthEndpoints\u003Eb__0_0",
+    "RelativePath": "api/auth/sign-up",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "UserContactsManager.Bll.Dtos.UserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Authentication"
+    ],
+    "EndpointName": "SignUp"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.ContactEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapContactEndpoints\u003Eb__0_0",
+    "RelativePath": "api/contact/add-contact",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactCreateDto",
+        "Type": "UserContactsManager.Bll.Dtos.ContactCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Contact Management"
+    ],
+    "EndpointName": "AddContact"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.ContactEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapContactEndpoints\u003Eb__0_1",
+    "RelativePath": "api/contact/delete-contact",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Contact Management"
+    ],
+    "EndpointName": "DeleteContact"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.ContactEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapContactEndpoints\u003Eb__0_4",
+    "RelativePath": "api/contact/get-all-contacts",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Contact Management"
+    ],
+    "EndpointName": "GetAllContacts"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.ContactEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapContactEndpoints\u003Eb__0_3",
+    "RelativePath": "api/contact/get-contact-by-id",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Contact Management"
+    ],
+    "EndpointName": "GetContactById"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.ContactEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapContactEndpoints\u003Eb__0_2",
+    "RelativePath": "api/contact/update-contact",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "UserContactsManager.Bll.Dtos.ContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Contact Management"
+    ],
+    "EndpointName": "UpdateContact"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.RoleEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapRoleEndpoints\u003Eb__0_0",
+    "RelativePath": "api/role/get-all-roles",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "UserRole Management"
+    ],
+    "EndpointName": "GetAllUsers"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.RoleEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapRoleEndpoints\u003Eb__0_1",
+    "RelativePath": "api/role/get-all-users-by-role",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 401
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 403
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ],
+    "Tags": [
+      "UserRole Management"
+    ],
+    "EndpointName": "GetUsersByRole"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.UserEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserEndpoints\u003Eb__0_0",
+    "RelativePath": "api/user/delete",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "User Management"
+    ],
+    "EndpointName": "DeleteUser"
+  },
+  {
+    "ContainingType": "UserContacts.Server.Endpoints.UserEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapUserEndpoints\u003Eb__0_1",
+    "RelativePath": "api/user/updateRole",
+    "HttpMethod": "PATCH",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "userRole",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "User Management"
+    ],
+    "EndpointName": "UpdateUserRole"
+  }
+]

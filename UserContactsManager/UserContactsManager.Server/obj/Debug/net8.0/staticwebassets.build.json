@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Bl1U8T7zpzf+hKrMy4SzSSqAJIix6nvpA6Nd5mmpd/8=",
+  "Source": "UserContactsManager.Server",
+  "BasePath": "_content/UserContactsManager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

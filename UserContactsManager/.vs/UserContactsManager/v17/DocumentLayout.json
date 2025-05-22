@@ -1,0 +1,1313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\validators\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\validators\\contactdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\validators\\contactcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\validators\\contactcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\repositoryservice\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\repositoryservice\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\timecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\timecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\requestdurationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\requestdurationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\nightblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\nightblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\geoblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\geoblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\contactcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\contactcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\configurations\\jwtsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\configurations\\jwtsettingsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\configurations\\dependecyinjectionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\configurations\\dependecyinjectionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\endpoints\\roleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\endpoints\\roleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\endpoints\\contactendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\endpoints\\contactendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\configurations\\userroleconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\configurations\\userroleconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\configurations\\refreshtokenconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\configurations\\refreshtokenconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\configurations\\contactconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\configurations\\contactconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\validators\\userlogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\validators\\userlogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\helpers\\timehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\helpers\\timehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\helpers\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\helpers\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\settings\\jwtappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\settings\\jwtappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\repository\\settings\\sqldbconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\repository\\settings\\sqldbconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\usercontactsmanager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\usercontactsmanager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\usercontacts.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\usercontacts.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\usercontactsmanager.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\usercontactsmanager.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.dal\\usercontactsmanager.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB3A6AA8-1293-4B4C-A79E-E626C3480138}|UserContactsManager.Dal\\UserContactsManager.Dal.csproj|solutionrelative:usercontactsmanager.dal\\usercontactsmanager.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\rolegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\rolegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\notallowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\notallowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontacts.core\\errors\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92461534-C681-43D1-98B3-829A52A6CCC8}|UserContacts.Core\\UserContacts.Core.csproj|solutionrelative:usercontacts.core\\errors\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\configurations\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.server\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9E9387-F63D-423E-86C3-12AFEE323B9E}|UserContactsManager.Server\\UserContactsManager.Server.csproj|solutionrelative:usercontactsmanager.server\\configurations\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|c:\\projects\\exams\\sixthmoduleexam.nomozov\\usercontactsmanager\\usercontactsmanager.bll\\helpers\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9234E36F-3486-48A4-97AD-E8C057D2607B}|UserContactsManager.Bll\\UserContactsManager.Bll.csproj|solutionrelative:usercontactsmanager.bll\\helpers\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\6_modul\\ToDoList\\src\\ToDoList\\ToDoList.Core\\Errors\\UnauthorizedException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\UserRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:29:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Validators\\ContactCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:02:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\ContactDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Validators\\ContactDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\ContactDtoValidator.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Validators\\ContactDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:02:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Validators\\UserCreateDtoValidator.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawBYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:03:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Program.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Program.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:23:33.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IUserRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:28:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\RoleRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\RoleRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:26:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\RefreshTokenRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:23:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\IRoleRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IRoleRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:25:27.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:23:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\IContactRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\IContactRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:20:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\RepositoryService\\ContactRepository.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\RepositoryService\\ContactRepository.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\RepositoryService\\ContactRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:20:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\MainContext.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\MainContext.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\MainContext.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\MainContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:36:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:57:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GlobalExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:56:26.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GeoBlockMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\GeoBlockMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\GeoBlockMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\GeoBlockMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\GeoBlockMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:10.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:05:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\AuthService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:38:05.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Endpoints\\AuthEndpoints.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\AuthEndpoints.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Endpoints\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:56:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NightBlockMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\NightBlockMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\NightBlockMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\NightBlockMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\NightBlockMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestDurationMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\RequestDurationMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\RequestDurationMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\RequestDurationMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\RequestDurationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:25.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimeCheck.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\TimeCheck.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\TimeCheck.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\TimeCheck.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\TimeCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:45:06.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MaintenanceMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Middlewares\\MaintenanceMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Middlewares\\MaintenanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:06:16.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\UserService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:47:44.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\RoleService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:47:16.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IRoleService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:46:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IContactService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:43:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\ContactService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:42:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Services\\IAuthService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:37:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\Log.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Entities\\Log.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\Log.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Entities\\Log.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:00:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\appsettings.json",
+              "RelativeToolTip": "UserContactsManager.Server\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T18:54:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtSettingsConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\JwtSettingsConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Configurations\\JwtSettingsConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\JwtSettingsConfiguration.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Configurations\\JwtSettingsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:54:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ContactCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\ContactCreateDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\ContactCreateDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\ContactCreateDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\ContactCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\ContactDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\ContactDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\ContactDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\ContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DependecyInjectionsConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\DependecyInjectionsConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Configurations\\DependecyInjectionsConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\DependecyInjectionsConfiguration.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Configurations\\DependecyInjectionsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:53:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\BaseException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\BaseException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\BaseException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:21:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\AuthException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\AuthException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\AuthException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\AuthException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:29:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:56:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\RoleEndpoints.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Endpoints\\RoleEndpoints.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\RoleEndpoints.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Endpoints\\RoleEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:37:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContactEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\ContactEndpoints.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Endpoints\\ContactEndpoints.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Endpoints\\ContactEndpoints.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Endpoints\\ContactEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:56:35.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\UserRole.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:16:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\User.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:24:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:11:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Entities\\Contact.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:24:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserRoleConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\UserRoleConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Configurations\\UserRoleConfigurations.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\UserRoleConfigurations.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Configurations\\UserRoleConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:07:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\UserConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Configurations\\UserConfigurations.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\UserConfigurations.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Configurations\\UserConfigurations.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:42:34.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RefreshTokenConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\RefreshTokenConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Configurations\\RefreshTokenConfigurations.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\RefreshTokenConfigurations.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Configurations\\RefreshTokenConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:20:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ContactConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\ContactConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Configurations\\ContactConfigurations.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Configurations\\ContactConfigurations.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Configurations\\ContactConfigurations.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:59:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserLoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\UserLoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Validators\\UserLoginDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Validators\\UserLoginDtoValidator.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Validators\\UserLoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:03:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Helpers\\TokenService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Helpers\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:35:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TimeHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\TimeHelper.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Helpers\\TimeHelper.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\TimeHelper.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Helpers\\TimeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:35:26.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\ITokenService.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Helpers\\ITokenService.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\ITokenService.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Helpers\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:35:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "JwtAppSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\Settings\\JwtAppSettings.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\Settings\\JwtAppSettings.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\Settings\\JwtAppSettings.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\Settings\\JwtAppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:18:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SqlDbConnectionString.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\Settings\\SqlDbConnectionString.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Repository\\Settings\\SqlDbConnectionString.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Repository\\Settings\\SqlDbConnectionString.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Repository\\Settings\\SqlDbConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:17:00.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250522040421_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs",
+              "RelativeToolTip": "UserContactsManager.Dal\\Migrations\\20250522040421_InitialCreation.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:04:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserContactsManager.Server.csproj",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\UserContactsManager.Server.csproj",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\UserContactsManager.Server.csproj",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\UserContactsManager.Server.csproj",
+              "RelativeToolTip": "UserContactsManager.Server\\UserContactsManager.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T19:33:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserContactsManager.Bll",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\UserContactsManager.Bll.csproj",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\UserContactsManager.Bll.csproj",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\UserContactsManager.Bll.csproj",
+              "RelativeToolTip": "UserContactsManager.Bll\\UserContactsManager.Bll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T03:35:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserContacts.Core.csproj",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\UserContacts.Core.csproj",
+              "RelativeDocumentMoniker": "UserContacts.Core\\UserContacts.Core.csproj",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\UserContacts.Core.csproj",
+              "RelativeToolTip": "UserContacts.Core\\UserContacts.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T17:20:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserContactsManager.Dal",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\UserContactsManager.Dal.csproj",
+              "RelativeDocumentMoniker": "UserContactsManager.Dal\\UserContactsManager.Dal.csproj",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Dal\\UserContactsManager.Dal.csproj",
+              "RelativeToolTip": "UserContactsManager.Dal\\UserContactsManager.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T04:02:31.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DatabaseConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Configurations\\DatabaseConfigurations.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Configurations\\DatabaseConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:53:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:34:38.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserGetDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserGetDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\UserGetDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserGetDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\UserGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:34:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\UserCreateDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\UserCreateDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:34:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RoleGetDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\RoleGetDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\RoleGetDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\RoleGetDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\RoleGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:34:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RefreshRequestDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\RefreshRequestDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\RefreshRequestDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\RefreshRequestDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\RefreshRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Dtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Dtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Dtos\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:33:47.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:34:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "NotAllowedException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\NotAllowedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:34:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:33:30.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "RelativeToolTip": "UserContacts.Core\\Errors\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:31:58.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SerilogConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\SerilogConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Configurations\\SerilogConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\SerilogConfiguration.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Configurations\\SerilogConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:05:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "JwtConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\JwtConfiguration.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Server\\Configurations\\JwtConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Server\\Configurations\\JwtConfiguration.cs",
+              "RelativeToolTip": "UserContactsManager.Server\\Configurations\\JwtConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:16:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEoHAAAAAAAAAAArwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-19T16:27:52.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "UserContactsManager.Bll\\Helpers\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Projects\\Exams\\SixthModuleExam.Nomozov\\UserContactsManager\\UserContactsManager.Bll\\Helpers\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "UserContactsManager.Bll\\Helpers\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:34:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Projects\\6_modul\\ToDoList\\src\\ToDoList\\ToDoList.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\6_modul\\ToDoList\\src\\ToDoList\\ToDoList.Core\\Errors\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Projects\\6_modul\\ToDoList\\src\\ToDoList\\ToDoList.Core\\Errors\\UnauthorizedException.cs",
+              "RelativeToolTip": "..\\..\\..\\6_modul\\ToDoList\\src\\ToDoList\\ToDoList.Core\\Errors\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:49:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-18T20:16:16.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

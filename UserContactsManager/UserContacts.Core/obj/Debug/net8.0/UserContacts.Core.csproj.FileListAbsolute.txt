@@ -1,0 +1,12 @@
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\bin\Debug\net8.0\UserContacts.Core.deps.json
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\bin\Debug\net8.0\UserContacts.Core.dll
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\bin\Debug\net8.0\UserContacts.Core.pdb
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.AssemblyInfoInputs.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.AssemblyInfo.cs
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.sourcelink.json
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.dll
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\refint\UserContacts.Core.dll
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\UserContacts.Core.pdb
+C:\Projects\Exams\SixthModuleExam.Nomozov\UserContactsManager\UserContacts.Core\obj\Debug\net8.0\ref\UserContacts.Core.dll
